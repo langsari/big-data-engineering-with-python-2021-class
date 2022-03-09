@@ -40,9 +40,10 @@ Learn to design data models, build data warehouses and data lakes, automate data
 - Apache Airflow
 - Git, GitHub, GitHub Desktop
 
-### This course is a aprt of @DataScience @FTU class course
+### This course is a aprt of @DataScience @FTU class
 
+### Course Description [EN]
 Data warehouse (DW) architecture; dimensional modelling, e.g., star schema and snowflake schema; data extraction; transformation and loading (ETL); metadata; DW maintenance; online analytical processing (OLAP); dashboard. Big data analytics lifecycle; Hadoop and MapReduce architecture; Hadoop Ecosystems, e.g., Mahout Program, Pig Program and Hive Program
 
-(สถาปัตยกรรมของคลังข้อมูล การสร้างแบบจําลองข้อมูลเชิงมิติ เช่น แบบจําลอง ข้อมูลแบบส ตาร์ และแบบจําลองข้อมูลแบบสโนเฟค การสกัดข้อมูล การแปลงข้อมูลและการนํา ข้อมูลเข้า ระบบคลังข้อมูล เมตดาต้า การบํารุงรักษาคลังข้อมูล การประมวลผลการวิเคราะห์ทาง ออนไลน์ (โอแลป) แดชบอร์ด กระบวนการวิเคราะห์ข้อมูลขนาดใหญ่ สถาปัตยกรรมการ ประมวล ผล ข้อมูลแบบฮาร์ดูปและแมบรีดิวส์ การติดตั้งแมบรีดิวส์ การเขียนโปรแกรมแมบรีดิวส์ ระบบอื่น ๆ ที่ เก่ียวข้องกับ ฮาร์ดูป เช่น โปรแกรมมาเอ้าท์ โปรแกรมพิก และโปรแกรมไฮฟ)
-
+### Course Description [TH]
+สถาปัตยกรรมของคลังข้อมูล การสร้างแบบจําลองข้อมูลเชิงมิติ เช่น แบบจําลอง ข้อมูลแบบส ตาร์ และแบบจําลองข้อมูลแบบสโนเฟค การสกัดข้อมูล การแปลงข้อมูลและการนํา ข้อมูลเข้า ระบบคลังข้อมูล เมตดาต้า การบํารุงรักษาคลังข้อมูล การประมวลผลการวิเคราะห์ทาง ออนไลน์ (โอแลป) แดชบอร์ด กระบวนการวิเคราะห์ข้อมูลขนาดใหญ่ สถาปัตยกรรมการ ประมวล ผล ข้อมูลแบบฮาร์ดูปและแมบรีดิวส์ การติดตั้งแมบรีดิวส์ การเขียนโปรแกรมแมบรีดิวส์ ระบบอื่น ๆ ที่ เก่ียวข้องกับ ฮาร์ดูป เช่น โปรแกรมมาเอ้าท์ โปรแกรมพิก และโปรแกรมไฮฟ
